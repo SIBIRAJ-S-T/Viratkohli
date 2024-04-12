@@ -1,0 +1,35 @@
+.a{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    background-color: aqua;
+    display: grid;
+    place-items: center;
+}
+
+.b{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background-color: yellow;
+    display: grid;
+    place-items: center;
+}
+
+.c{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: blue;
+    display: grid;
+    place-items: center;
+}
+
+.d{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: green;
+    display: grid;
+    place-items: center;
+}
